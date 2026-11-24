@@ -210,7 +210,7 @@ tempCodeRunnerFile.py
 
 # Ruff stuff:
 .ruff_cache/
-
+ß
 # PyPI configuration file
 .pypirc
 
@@ -221,3 +221,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+.venv/
+results/raw
